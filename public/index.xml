@@ -23,11 +23,11 @@
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     <item>
-      <title>About Hugo</title>
+      <title>About Guffey</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hugo is a static site engine written in Go.&#xA;It makes use of a variety of open source projects including:&#xA;Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.&#xA;Setup Some fun facts about Hugo:&#xA;Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+      <description>About Guffey, Colorado Welcome to Guffey, Colorado, a historic and picturesque town nestled in the heart of the Rocky Mountains. Located in Park County, Guffey is known for its rich history, natural beauty, and vibrant community spirit.&#xA;A Rich History Guffey&amp;rsquo;s roots date back to the late 1800s, and the town still retains much of its old-west charm. Wander through our historic streets and you&amp;rsquo;ll find preserved buildings that tell the story of a bygone era.</description>
     </item>
     <item>
       <title>(Hu)go Template Primer</title>
