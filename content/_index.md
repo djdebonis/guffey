@@ -1,18 +1,34 @@
 ---
-title: "Start"
+title: "Guffey, Colorado"
 page: true
 menu:
   main:
-    name: "Start"
+    name: "Guffey"
     weight: 1
 ---
 
-# Our local scout group
+# Guffey, Colorado
 
-This is the index page.
+## A small town with a big heart for adventure
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+### Welcome to Guffey, Colorado
 
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+Nestled in the heart of Park County, Colorado, Guffey is a charming and historic mountain town known for its unique blend of old-west ambiance and natural beauty. Surrounded by the breathtaking Rocky Mountains, Guffey offers a serene escape with plenty of outdoor activities, including hiking, fishing, and wildlife watching.
 
-Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+### Discover Guffey
+
+Guffey is rich in history and community spirit. Stroll through the town to experience its historic buildings, eclectic art, and friendly locals. Guffey's close-knit community hosts various events throughout the year, fostering a welcoming atmosphere for both residents and visitors.
+
+### Explore Park County
+
+Guffey is located in Park County, a region celebrated for its stunning landscapes and outdoor recreational opportunities. Whether you're exploring Pike National Forest, fishing in Eleven Mile Reservoir, or simply enjoying the scenic drives, Park County offers endless adventures for nature enthusiasts.
+
+### Experience the Local Culture
+
+Visit the [Wild Spirit Mountain Lodge](https://wildspiritmountainlodge.com), a local favorite, for a taste of Guffey's hospitality. This lodge is not only a place to stay but also a community hub where you can enjoy live music, events, and delicious food. The lodge embodies the spirit of Guffey with its rustic charm and warm atmosphere.
+
+### Plan Your Visit
+
+Guffey is the perfect destination for those looking to experience the tranquility and beauty of Colorado's mountain life. Whether you're seeking adventure or relaxation, Guffey and Park County have something to offer everyone.
+
+Come and discover the hidden gem of Guffey, Colorado, where history, nature, and community come together to create an unforgettable experience.

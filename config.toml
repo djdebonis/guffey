@@ -1,13 +1,13 @@
 baseurl = "https://example.com"
-title = "Hugo DPSG"
-languageCode = "de"
-DefaultContentLanguage = "de"
+title = "Guffeyville"
+languageCode = "en"
+DefaultContentLanguage = "en"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 
 [Author] # Used in authorbox
-  name = "Scout Master"
-  bio = "The Scout Master is the leader of this local scout group"
+  name = "Guffey, Colorado"
+  bio = "A small town with a big heart for adventure."
   avatar = "img/avatar.png"
 
 [Params]
@@ -26,13 +26,13 @@ theme = "hugo-dpsg"
   dateformat = "02.01.2006" # Change the format of dates
 
 [Params.style.vars]
-  highlightColor = "#003056" # Override main theme color
+  highlightColor = "#c69874" # Override main theme color
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
   header = "img/header.jpg" # Header image. Path relative to "static"
-  title = "Hugo DPSG" # Logo title, otherwise will use site title
-  subtitle = "Welcome to our group site" # Logo subtitle
+  title = "Guffey, Colorado" # Logo title, otherwise will use site title
+  subtitle = "Welcome to our rustic mountain town" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
