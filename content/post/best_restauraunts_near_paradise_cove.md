@@ -1,6 +1,6 @@
 ---
-title: "(Hu)go Template Primer"
-date: 2014-04-02
+title: "The Best Restauraunts Near Paradise Cove, Colorado"
+date: 2024-06-02
 thumbnail: "img/paradise_cove_guffey_colorado.jpg"
 tags:
   - "Wild Spirit Mountain Lodge"

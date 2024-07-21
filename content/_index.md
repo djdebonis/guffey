@@ -32,3 +32,5 @@ Visit the [Wild Spirit Mountain Lodge](https://wildspiritmountainlodge.com), a l
 Guffey is the perfect destination for those looking to experience the tranquility and beauty of Colorado's mountain life. Whether you're seeking adventure or relaxation, Guffey and Park County have something to offer everyone.
 
 Come and discover the hidden gem of Guffey, Colorado, where history, nature, and community come together to create an unforgettable experience.
+
+### Learn more about Guffey, Colorado
