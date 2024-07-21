@@ -11,8 +11,8 @@ theme = "hugo-dpsg"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Welcome to our scout group!" # Site description. Used in meta description
-  copyright = "DGSP local group" # Footer copyright holder, otherwise will use site title
+  description = "Welcome to the town of Guffey, Colorado." # Site description. Used in meta description
+  copyright = "The Mystical Land of South Park, Colorado" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
