@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Restauraunts on Guffeyville</title>
-    <link>https://example.com/categories/restauraunts/</link>
+    <link>http://localhost:1313/categories/restauraunts/</link>
     <description>Recent content in Restauraunts on Guffeyville</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/restauraunts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/restauraunts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Best Bars in Guffey, Colorado</title>
-      <link>https://example.com/post/best-bar-in-guffey-colorado/</link>
+      <link>http://localhost:1313/post/best-bar-in-guffey-colorado/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/best-bar-in-guffey-colorado/</guid>
+      <guid>http://localhost:1313/post/best-bar-in-guffey-colorado/</guid>
       <description>Best Bars in Guffey, Colorado Nestled in the picturesque Rocky Mountains, Guffey, Colorado, may be small, but it offers a unique charm with its cozy bars and welcoming atmosphere. Whether you&amp;rsquo;re a local or just passing through, these bars are sure to provide a memorable experience.&#xA;1. Wild Spirit Mountain Lodge Located at 1245 Canon Street, Wild Spirit Mountain Lodge is more than just a bar&amp;ndash;it&amp;rsquo;s a community hub. Known for its rustic charm, this venue offers a cozy bar with a selection of drinks that cater to all tastes.</description>
     </item>
     <item>
       <title>The Best Restauraunts Near Paradise Cove, Colorado</title>
-      <link>https://example.com/post/best_restauraunts_near_paradise_cove/</link>
+      <link>http://localhost:1313/post/best_restauraunts_near_paradise_cove/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/best_restauraunts_near_paradise_cove/</guid>
+      <guid>http://localhost:1313/post/best_restauraunts_near_paradise_cove/</guid>
       <description>Discover the Charm of Paradise Cove and Wild Spirit Mountain Lodge Paradise Cove (Guffey Gorge) Paradise Cove, also known as Guffey Gorge, is a hidden gem nestled in the Rocky Mountains near Guffey, Colorado. This natural swimming hole is a favorite spot for locals and visitors seeking adventure and relaxation. The gorge features crystal-clear waters surrounded by dramatic cliffs, making it a picturesque destination for swimming, cliff jumping, and picnicking. The hike to Paradise Cove is relatively short but offers stunning views of the surrounding wilderness, providing a perfect blend of tranquility and excitement.</description>
     </item>
   </channel>

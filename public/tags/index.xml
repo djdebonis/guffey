@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Guffeyville</title>
-    <link>https://example.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Guffeyville</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bar and Grill</title>
-      <link>https://example.com/tags/bar-and-grill/</link>
+      <link>http://localhost:1313/tags/bar-and-grill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/bar-and-grill/</guid>
+      <guid>http://localhost:1313/tags/bar-and-grill/</guid>
       <description></description>
     </item>
     <item>
       <title>Bars</title>
-      <link>https://example.com/tags/bars/</link>
+      <link>http://localhost:1313/tags/bars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/bars/</guid>
+      <guid>http://localhost:1313/tags/bars/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>https://example.com/tags/food/</link>
+      <link>http://localhost:1313/tags/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/food/</guid>
+      <guid>http://localhost:1313/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Restauraunts</title>
-      <link>https://example.com/tags/restauraunts/</link>
+      <link>http://localhost:1313/tags/restauraunts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/restauraunts/</guid>
+      <guid>http://localhost:1313/tags/restauraunts/</guid>
       <description></description>
     </item>
     <item>
       <title>Guffey</title>
-      <link>https://example.com/tags/guffey/</link>
+      <link>http://localhost:1313/tags/guffey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/guffey/</guid>
+      <guid>http://localhost:1313/tags/guffey/</guid>
       <description></description>
     </item>
     <item>
       <title>Guffey Gorge</title>
-      <link>https://example.com/tags/guffey-gorge/</link>
+      <link>http://localhost:1313/tags/guffey-gorge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/guffey-gorge/</guid>
+      <guid>http://localhost:1313/tags/guffey-gorge/</guid>
       <description></description>
     </item>
     <item>
       <title>Guffey, Colorado</title>
-      <link>https://example.com/tags/guffey-colorado/</link>
+      <link>http://localhost:1313/tags/guffey-colorado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/guffey-colorado/</guid>
+      <guid>http://localhost:1313/tags/guffey-colorado/</guid>
       <description></description>
     </item>
     <item>
       <title>Paradise Cove</title>
-      <link>https://example.com/tags/paradise-cove/</link>
+      <link>http://localhost:1313/tags/paradise-cove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/paradise-cove/</guid>
+      <guid>http://localhost:1313/tags/paradise-cove/</guid>
       <description></description>
     </item>
     <item>
       <title>Wild Spirit Mountain Lodge</title>
-      <link>https://example.com/tags/wild-spirit-mountain-lodge/</link>
+      <link>http://localhost:1313/tags/wild-spirit-mountain-lodge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/wild-spirit-mountain-lodge/</guid>
+      <guid>http://localhost:1313/tags/wild-spirit-mountain-lodge/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://example.com/tags/development/</link>
+      <link>http://localhost:1313/tags/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/development/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>https://example.com/tags/go/</link>
+      <link>http://localhost:1313/tags/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/go/</guid>
+      <guid>http://localhost:1313/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://example.com/tags/golang/</link>
+      <link>http://localhost:1313/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/golang/</guid>
+      <guid>http://localhost:1313/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>

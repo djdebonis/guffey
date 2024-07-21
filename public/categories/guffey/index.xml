@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guffey on Guffeyville</title>
-    <link>https://example.com/categories/guffey/</link>
+    <link>http://localhost:1313/categories/guffey/</link>
     <description>Recent content in Guffey on Guffeyville</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/guffey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/guffey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Best Bars in Guffey, Colorado</title>
-      <link>https://example.com/post/best-bar-in-guffey-colorado/</link>
+      <link>http://localhost:1313/post/best-bar-in-guffey-colorado/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/best-bar-in-guffey-colorado/</guid>
+      <guid>http://localhost:1313/post/best-bar-in-guffey-colorado/</guid>
       <description>Best Bars in Guffey, Colorado Nestled in the picturesque Rocky Mountains, Guffey, Colorado, may be small, but it offers a unique charm with its cozy bars and welcoming atmosphere. Whether you&amp;rsquo;re a local or just passing through, these bars are sure to provide a memorable experience.&#xA;1. Wild Spirit Mountain Lodge Located at 1245 Canon Street, Wild Spirit Mountain Lodge is more than just a bar&amp;ndash;it&amp;rsquo;s a community hub. Known for its rustic charm, this venue offers a cozy bar with a selection of drinks that cater to all tastes.</description>
     </item>
   </channel>
