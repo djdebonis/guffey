@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Guffeyville</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://example.com/categories/</link>
     <description>Recent content in Categories on Guffeyville</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bars</title>
-      <link>http://localhost:1313/categories/bars/</link>
+      <link>https://example.com/categories/bars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/bars/</guid>
+      <guid>https://example.com/categories/bars/</guid>
       <description></description>
     </item>
     <item>
       <title>Guffey</title>
-      <link>http://localhost:1313/categories/guffey/</link>
+      <link>https://example.com/categories/guffey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/guffey/</guid>
+      <guid>https://example.com/categories/guffey/</guid>
       <description></description>
     </item>
     <item>
       <title>Restauraunts</title>
-      <link>http://localhost:1313/categories/restauraunts/</link>
+      <link>https://example.com/categories/restauraunts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/restauraunts/</guid>
+      <guid>https://example.com/categories/restauraunts/</guid>
       <description></description>
     </item>
     <item>
       <title>Bar</title>
-      <link>http://localhost:1313/categories/bar/</link>
+      <link>https://example.com/categories/bar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/bar/</guid>
+      <guid>https://example.com/categories/bar/</guid>
       <description></description>
     </item>
     <item>
       <title>Bar and Grill</title>
-      <link>http://localhost:1313/categories/bar-and-grill/</link>
+      <link>https://example.com/categories/bar-and-grill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/bar-and-grill/</guid>
+      <guid>https://example.com/categories/bar-and-grill/</guid>
       <description></description>
     </item>
     <item>
       <title>Paradise Cove</title>
-      <link>http://localhost:1313/categories/paradise-cove/</link>
+      <link>https://example.com/categories/paradise-cove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/paradise-cove/</guid>
+      <guid>https://example.com/categories/paradise-cove/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
+      <link>https://example.com/categories/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/development/</guid>
+      <guid>https://example.com/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://localhost:1313/categories/golang/</link>
+      <link>https://example.com/categories/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/golang/</guid>
+      <guid>https://example.com/categories/golang/</guid>
       <description></description>
     </item>
   </channel>
