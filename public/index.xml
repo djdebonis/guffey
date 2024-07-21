@@ -44,11 +44,11 @@
       <description>About Guffey, Colorado Welcome to Guffey, Colorado, a historic and picturesque town nestled in the heart of the Rocky Mountains. Located in Park County, Guffey is known for its rich history, natural beauty, and vibrant community spirit.&#xA;A Rich History Guffey&amp;rsquo;s roots date back to the late 1800s, and the town still retains much of its old-west charm. Wander through our historic streets and you&amp;rsquo;ll find preserved buildings that tell the story of a bygone era.</description>
     </item>
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://localhost:1313/post/hugoisforlovers/</link>
+      <title>The History of Guffey, Colorado</title>
+      <link>http://localhost:1313/post/guffey-history/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+      <guid>http://localhost:1313/post/guffey-history/</guid>
+      <description>The History of Guffey, Colorado Early Beginnings Nestled in the Rocky Mountains, Guffey, Colorado, has a rich history that dates back to the late 1800s. Founded as a mining town during Colorado&amp;rsquo;s gold rush, Guffey quickly became a bustling hub for prospectors and settlers looking to make their fortune. The discovery of gold, silver, copper, and other minerals in the area brought an influx of people, transforming the once-quiet region into a lively community.</description>
     </item>
   </channel>
 </rss>
