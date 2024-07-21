@@ -9,7 +9,7 @@ menu:
 
 ## A small town with a big heart for adventure
 
-![Alt text for the image](/img/header.jpg)
+![a birds eye view of the small town of guffey colorado](/img/header.jpg)
 
 ### Welcome to Guffey, Colorado
 
@@ -32,5 +32,7 @@ Visit the [Wild Spirit Mountain Lodge](https://wildspiritmountainlodge.com), a l
 Guffey is the perfect destination for those looking to experience the tranquility and beauty of Colorado's mountain life. Whether you're seeking adventure or relaxation, Guffey and Park County have something to offer everyone.
 
 Come and discover the hidden gem of Guffey, Colorado, where history, nature, and community come together to create an unforgettable experience.
+
+![wild mustangs outside the town of guffey, colorado near eleven mile reservoir and the dream stream with rolling mountains in the back](/img/wild_mustangs_by_dream_stream_eleven_mile.JPG)
 
 ### Learn more about Guffey, Colorado
