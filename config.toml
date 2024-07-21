@@ -29,7 +29,7 @@ theme = "hugo-dpsg"
   highlightColor = "#c69874" # Override main theme color
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "" # Logo image. Path relative to "static"
   header = "img/header.jpg" # Header image. Path relative to "static"
   title = "Guffey, Colorado" # Logo title, otherwise will use site title
   subtitle = "Welcome to our rustic mountain town" # Logo subtitle

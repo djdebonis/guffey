@@ -2,6 +2,7 @@
 title: The Best Bars in Guffey, Colorado
 description: Guffey, Colorado is situated in South Park County near Paradise Cove. Looking for a good bar nearby? Check out what we have.
 date: 2024-07-21
+thumbnail: "img/guffey_colorado_wild_spirit_mountain_lodge.jpg"
 categories:
   - "Guffey"
   - "Bars"
@@ -21,6 +22,7 @@ Nestled in the picturesque Rocky Mountains, Guffey, Colorado, may be small, but 
 Located at 1245 Canon Street, Wild Spirit Mountain Lodge is more than just a bar--it's a community hub. Known for its rustic charm, this venue offers a cozy bar with a selection of drinks that cater to all tastes. The lodge also hosts various events, from live music to community gatherings, making it a great spot to meet new people and enjoy the local culture.
 
 For more information, you can visit their [website](https://www.wildspiritmountainlodge.com/).
+
 
 
 ### Conclusion
