@@ -7,9 +7,9 @@ menu:
     weight: 1
 ---
 
-# Guffey, Colorado
-
 ## A small town with a big heart for adventure
+
+![Alt text for the image](/img/header.jpg)
 
 ### Welcome to Guffey, Colorado
 
