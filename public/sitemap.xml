@@ -21,7 +21,27 @@
     </url>
     
     <url>
+      <loc>http://localhost:1313/post/eleven-mile-reservoir/</loc>
+      <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/tags/fishing/</loc>
+      <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/categories/fishing/</loc>
+      <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
       <loc>http://localhost:1313/tags/food/</loc>
+      <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/tags/guffey/</loc>
       <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -42,6 +62,11 @@
     
     <url>
       <loc>http://localhost:1313/post/</loc>
+      <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/categories/recreation/</loc>
       <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -72,11 +97,6 @@
     
     <url>
       <loc>http://localhost:1313/categories/bar-and-grill/</loc>
-      <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>http://localhost:1313/tags/guffey/</loc>
       <lastmod>2024-06-02T00:00:00+00:00</lastmod>
     </url>
     

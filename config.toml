@@ -8,7 +8,7 @@ theme = "hugo-dpsg"
 [Author] # Used in authorbox
   name = "Guffey, Colorado"
   bio = "A small town with a big heart for adventure."
-  avatar = "img/avatar.png"
+  avatar = "img/avatar.jpeg"
 
 [Params]
   description = "Welcome to the town of Guffey, Colorado." # Site description. Used in meta description

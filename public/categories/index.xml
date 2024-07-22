@@ -16,10 +16,24 @@
       <description></description>
     </item>
     <item>
+      <title>Fishing</title>
+      <link>http://localhost:1313/categories/fishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fishing/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Guffey</title>
       <link>http://localhost:1313/categories/guffey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/guffey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recreation</title>
+      <link>http://localhost:1313/categories/recreation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/recreation/</guid>
       <description></description>
     </item>
     <item>

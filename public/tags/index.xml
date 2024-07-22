@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Fishing</title>
+      <link>http://localhost:1313/tags/fishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fishing/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Food</title>
       <link>http://localhost:1313/tags/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,17 +37,17 @@
       <description></description>
     </item>
     <item>
-      <title>Restauraunts</title>
-      <link>http://localhost:1313/tags/restauraunts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/restauraunts/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Guffey</title>
       <link>http://localhost:1313/tags/guffey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/guffey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Restauraunts</title>
+      <link>http://localhost:1313/tags/restauraunts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/restauraunts/</guid>
       <description></description>
     </item>
     <item>

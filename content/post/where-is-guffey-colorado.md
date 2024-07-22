@@ -2,6 +2,17 @@
 title: Where is Guffey Colorado?
 date: 2014-09-28
 author: Guffey, Colorado
+thumbnail: "img/rocks_guffey_colorado.jpg"
+categories:
+  - "Guffey"
+  - "Guffey, Colorado"
+  - "South Park"
+  - "Park County"
+tags:
+  - "Park County"
+  - "South Park"
+  - "Guffey, Colorado"
+  - "Guffey"
 ---
 
 ### Where is Guffey, Colorado?
@@ -10,18 +21,12 @@ Guffey, Colorado, is a small, historic town located in the heart of the Rocky Mo
 
 ### Getting to Guffey
 
-#### From Colorado Springs:
-- Take US-24 W for about 30 miles.
-- Turn left onto County Road 11 and follow it for 20 miles to reach Guffey.
-
-#### From Cañon City:
-- Take CO-9 N for about 25 miles.
-- Turn right onto County Road 102 and follow it for 15 miles to Guffey.
-
 #### From Denver:
-- Take US-285 S for about 86 miles.
-- Turn left onto CO-9 S and follow it for 23 miles.
-- Turn right onto County Road 102 and follow it for 15 miles to Guffey.
+- Take US-285 S for about 86 miles, until about 1 mile past Fairplay.
+- Turn left onto Highway 9 and follow it until Hartsel.
+- Take a left at the fork by Hartsel to continue on Highqay 9
+- Take a right in Hartsel, staying on Highway 9, and head south.
+- Turn left onto County Road 102 and follow it for 1 mile to Guffey.
 
 ### History and Attractions
 
