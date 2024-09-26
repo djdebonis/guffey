@@ -1,4 +1,4 @@
-# Guffey Website
+# Guffey, Colorado Website
 
 ## About Guffey, Colorado
 Guffey, Colorado, is a small, historic town nestled in the heart of the Rocky Mountains, within Park County. Known for its picturesque landscapes and rich history, Guffey offers a unique blend of old-west charm and modern outdoor activities. It's a perfect destination for those seeking tranquility and adventure in nature.
