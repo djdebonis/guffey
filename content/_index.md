@@ -17,11 +17,17 @@ Nestled in the heart of Park County, Colorado, Guffey is a charming and historic
 
 ### Discover Guffey
 
-Guffey is rich in history and community spirit. Stroll through the town to experience its historic buildings, eclectic art, and friendly locals. Guffey's close-knit community hosts various events throughout the year, fostering a welcoming atmosphere for both residents and visitors.
+Guffey is rich in history and community spirit. 
+
+A quick walk through the town allows anyone to experience Guffey's historic buildings, eclectic art, and friendly locals. 
+
+Guffey's close-knit community hosts various events throughout the year, fostering a welcoming atmosphere for both residents and visitors.
 
 ### Explore Park County
 
-Guffey is located in Park County, a region celebrated for its stunning landscapes and outdoor recreational opportunities. Whether you're exploring Pike National Forest, fishing in Eleven Mile Reservoir, or simply enjoying the scenic drives, Park County offers endless adventures for nature enthusiasts.
+Guffey is located in Park County, a region celebrated for its stunning landscapes and outdoor recreational opportunities. 
+
+Whether you're exploring Pike National Forest, fishing in Eleven Mile Reservoir, or simply enjoying the scenic drives, Park County offers endless adventures for nature enthusiasts.
 
 ### Experience the Local Culture
 

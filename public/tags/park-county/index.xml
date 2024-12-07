@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Park County on Guffey, Colorado</title>
-    <link>http://localhost:59871/tags/park-county/</link>
+    <link>http://localhost:1313/tags/park-county/</link>
     <description>Recent content in Park County on Guffey, Colorado</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59871/tags/park-county/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/park-county/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Where is Guffey Colorado?</title>
-      <link>http://localhost:59871/post/where-is-guffey-colorado/</link>
+      <link>http://localhost:1313/post/where-is-guffey-colorado/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59871/post/where-is-guffey-colorado/</guid>
+      <guid>http://localhost:1313/post/where-is-guffey-colorado/</guid>
       <description>Where is Guffey, Colorado? Guffey, Colorado, is a small, historic town located in the heart of the Rocky Mountains, within Park County. Nestled at an elevation of approximately 8,700 feet, Guffey is surrounded by stunning natural landscapes, including the Pike National Forest and the Royal Gorge. The town is situated about 50 miles southwest of Colorado Springs and 40 miles west of Cañon City.&#xA;Getting to Guffey From Denver: Take US-285 S for about 86 miles, until about 1 mile past Fairplay.</description>
     </item>
   </channel>
