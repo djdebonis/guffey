@@ -20,14 +20,14 @@ Guffey, Colorado, is a small mountain town in the heart of Park County, offering
 
 ---
 
-## **1. Types of Lodging in Guffey**
+## Types of Lodging in Guffey
 
 Guffey is a small town with limited options for lodging. However, Guffey offers a variety of lodging options to suit every type of traveler. From small, primitive cowboy cabins to rustic lodges to rentals, there’s something for everyone.
 
 ### **Rustic Lodges and Bed & Breakfasts**
 For a more personalized experience, consider staying at a local lodge or bed and breakfast like [Wild Spirit Mountain Lodge](https://www.wildspiritmountainlodge.com/lodging-guestrooms). These options feature unique decor, friendly hosts, and hearty homemade breakfasts.
 
-![wild spirit mountain lodge bed from ariel view with landscape in background]("img/wild_spirit_lodge_air.JPG")
+![wild spirit mountain lodge bed from ariel view with landscape in background](/img/wild_spirit_lodge_air.JPG)
 
 ### **Cabins and Vacation Rentals**
 Guffey is known for its charming cabins authentic mountain gold-mining experience. These accommodations are ideal for those seeking solitude, scenic views, and the comforts of home.
@@ -35,51 +35,23 @@ Guffey is known for its charming cabins authentic mountain gold-mining experienc
 ### **Hotels and Motels (With a Long Commute)**
 Guffey itself doesn’t have traditional hotels, nearby towns such as Canon City, Woodland Park, and Cripple Creek offer a range of hotel accommodations, from budget-friendly motels to luxury stays.
 
+### **Alternatives to Hotels**
+
 If you are looking for something resembling a hotel in Guffey, Colorado, your best bet is to stay at the [Wild Spirit Mountain Lodge](https://www.wildspiritmountainlodge.com/lodging-guestrooms). Here, you will find clean rooms, bathrooms, breakfast, and extensive options for dining.
 
 ---
 
-## **2. Top Lodging Options in and Around Guffey**
+## Top Lodging Options in Guffey
 
 ### **Wild Spirit Mountain Lodge**
 - **Location**: Guffey, Colorado
-- **Description**: This rustic yet comfortable lodge is nestled in the heart of Guffey, offering visitors an immersive mountain experience. With its cozy rooms and communal spaces, Wild Spirit Mountain Lodge is perfect for families, couples, and solo travelers.
-- **Highlights**: Stunning mountain views, outdoor fire pits, and proximity to local attractions.
+- **Description**: This rustic yet comfortable lodge is nestled in the heart of Guffey, offering visitors an immersive mountain experience. With its cozy rooms and communal spaces, [Wild Spirit Mountain Lodge is perfect for families, couples, and solo travelers](https://wildspiritmountainlodge.com).
+- **Highlights**: Pet friendly, free Wifi, amazing service, free breakfast, and proximity to local attractions.
 
-### **Highline Haven Vacation Rental**
-- **Location**: Just outside Guffey
-- **Description**: A spacious and modern vacation home with panoramic views of the Rockies. This rental is equipped with a full kitchen, comfortable furnishings, and a wraparound deck.
-- **Highlights**: Pet-friendly, ideal for groups, and close to hiking trails.
-
-### **Cripple Creek Hospitality**
-- **Location**: Cripple Creek, CO (about 30 minutes from Guffey)
-- **Description**: A collection of hotels and inns in the historic town of Cripple Creek. Options range from the luxurious Carr Manor to budget-friendly motels.
-- **Highlights**: Casino access, historic charm, and a variety of dining options.
-
-### **Eleven Mile Reservoir Camping Cabins**
-- **Location**: Eleven Mile State Park (25 minutes from Guffey)
-- **Description**: For those who love the great outdoors, the camping cabins at Eleven Mile State Park offer a rustic retreat near one of Colorado’s most beautiful reservoirs.
-- **Highlights**: Access to fishing, kayaking, and hiking; stunning lakeside views.
-
-### **The Thunderbird Inn**
-- **Location**: Woodland Park, CO (40 minutes from Guffey)
-- **Description**: A retro-inspired inn offering a mix of modern amenities and nostalgic charm. Known for its friendly service and comfortable rooms.
-- **Highlights**: Close to shops, restaurants, and outdoor activities.
-
----
-
-## **3. Tips for Choosing Lodging in Guffey**
-
-### **Consider Your Travel Style**
-- **Adventurers**: Opt for a cabin or camping option to be closer to nature.
-- **Relaxation Seekers**: Choose a bed and breakfast or lodge for a peaceful and pampered stay.
-- **Families**: Vacation rentals with full kitchens and multiple bedrooms offer the best value.
-
-### **Book in Advance**
-Guffey’s accommodations are limited, especially during peak seasons such as summer and fall. Plan ahead to secure your preferred lodging.
-
-### **Proximity to Attractions**
-While staying in Guffey offers a quiet retreat, consider how close you’d like to be to local attractions such as Paradise Cove (Guffey Gorge), Eleven Mile Reservoir, and Cripple Creek.
+### **Rustic Cabins**
+- **Location**: Guffey, Colorado
+- **Description**: Many of these rustic cabins were built in the 1880’s. Although they do not have running water, they come with water bottles for washing and drinking. Each has its own clean and unique outhouse and access to our two rustic, (outdoor and indoor), hot water showers. These cabins are an authentic Guffey experience. Learn more at [Guffey Rustic Cabin Webstie](https://guffeycolorado.com)
+- **Highlights**: Authentic, classic experience.
 
 ---
 
@@ -88,15 +60,14 @@ While staying in Guffey offers a quiet retreat, consider how close you’d like 
 Staying in Guffey allows you to immerse yourself in the town’s serene mountain setting and experience its unique culture. From stargazing under clear skies to exploring nearby trails and waterways, Guffey provides the perfect backdrop for relaxation and adventure.
 
 ### **Local Attractions Near Guffey**
-- **Paradise Cove (Guffey Gorge)**: A popular spot for swimming and cliff diving.
-- **Thirtynine Mile Volcanic Field**: A fascinating geological area with ancient rock formations.
+- **Paradise Cove (Guffey Gorge)**:[Paradise Cove aka Guffey Gorge](https://www.wildspiritmountainlodge.com/blog/adventures-in-park-county-hiking-swimming-and-cliff-jumping-at-guffey-gorge-paradise-cove) is a popular spot for hiking, swimming, and cliff diving.
 - **Historic Guffey Town Center**: Explore quirky shops, art installations, and the town’s mining heritage.
 
 ---
 
 ## **5. Additional Resources**
 
-- **Dining in Guffey**: Be sure to check out local spots like the Bull Moose Restaurant & Bar for a hearty meal after a day of exploring.
+- **Dining in Guffey**: Be sure to check out local spots like the Wild Spirit Mountain Lodge, The Bakery, or the Colorado Mountain Distillers for a hearty meal after a day of exploring.
 - **Outdoor Activities**: Don’t miss fishing at Eleven Mile Reservoir or hiking trails in Pike National Forest.
 - **Events and Festivals**: Plan your trip around Guffey’s Fourth of July Chicken Fly or other unique community events.
 
@@ -108,5 +79,3 @@ Guffey, Colorado, offers a one-of-a-kind lodging experience that caters to a wid
 
 ## Plan Your Visit
 Whether you’re planning a day trip to Paradise Cove or a longer stay in Guffey, Colorado, Wild Spirit Mountain Lodge is the ideal destination for dining, relaxation, and adventure. Experience the best of Colorado’s mountain hospitality and create lasting memories at this charming lodge.
-
-For more information, visit [Wild Spirit Mountain Lodge](https://wildspiritmountainlodge.com).
