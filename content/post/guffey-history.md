@@ -20,7 +20,6 @@ Guffey, Colorado, is a quaint little town in South Park County and is steeped in
 
 Settled  in the rolling hills and Ponderosa Pines of the Rocky Mountains, Guffey has a peculiar local culture and an interesting past. 
 
-
 Guffey has a rich history that dates back to the late 1800s. Founded as a mining town during Colorado's gold rush, Guffey quickly became a bustling hub for prospectors and settlers looking to make their fortune. The discovery of gold, silver, copper, and other minerals in the area brought an influx of people, transforming the once-quiet region into a lively community.
 
 ### The Name Guffey
