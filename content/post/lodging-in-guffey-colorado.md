@@ -9,7 +9,7 @@ categories:
   - "Guffey"
   - "Mountain Town"
   - "Recreation"
-menu: main
+
 ---
 
 ## The Ultimate Guide to Lodging and Hotels in Guffey, Colorado
