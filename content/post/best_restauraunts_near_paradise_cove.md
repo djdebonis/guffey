@@ -13,7 +13,6 @@ categories:
   - "Restauraunts"
   - "Bar and Grill"
   - "Bar"
-menu: main
 ---
 
 ### Discover the Charm of Paradise Cove and Wild Spirit Mountain Lodge
