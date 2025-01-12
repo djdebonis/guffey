@@ -54,12 +54,6 @@ theme = "hugo-dpsg"
 # Custom menu items, normally controlled via front matter in /content files
 [menu]
   [[menu.main]]
-    identifier = "Guffey, Colorado"
-    name = "Guffey, Colorado"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
